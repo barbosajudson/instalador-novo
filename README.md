@@ -9,6 +9,10 @@ Modificamos para que o PostgreSQL seja instalado sem problemas em diferentes arq
 sudo apt -y update && apt -y upgrade
 ```
 
+sudo apt -y update && sudo apt -y upgrade
+
+
+
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
 ```bash
